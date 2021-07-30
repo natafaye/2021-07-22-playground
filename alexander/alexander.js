@@ -1,0 +1,1 @@
+console.log("Hello. My name is Alexd, and I'm really excited for my future of coding. I am looking forard to working as a Front-End Stack Engineer!");
