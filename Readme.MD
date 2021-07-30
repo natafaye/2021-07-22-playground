@@ -4,7 +4,7 @@
 
 1. Find a good spot on your computer, open Git Bash there, and clone the repository to your computer (you may need to log in)
 ```
-git clone https://github.com/natafaye/2021-06-15-playground.git
+git clone https://github.com/natafaye/2021-07-22-playground.git
 ```
 
 2. Open the repository folder in VS Code
